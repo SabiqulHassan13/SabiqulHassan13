@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SabiqulHassan13
-- 👀 I’m interested in freelance projects or remote job
-- 🌱 I’m currently working with JS
-- 💞️ I’m looking to collaborate on some open source project
+- 👀 I’m interested in some freelance projects or remote job
+- 🌱 I’m currently working with JS based Web Development
+- 💞️ I’m looking to collaborate on some open source projects
 - 📫 How to reach me ...
 - Email: sabiqulhassan98@gmail.com
 
